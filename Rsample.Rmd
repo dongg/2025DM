@@ -1,0 +1,13 @@
+---
+title: "R sample"
+output: html_document
+date: "2025-01-07"
+---
+
+# R 프로그램 테스트
+
+
+```{r}
+x <- rnorm(1000)
+hist(x)
+```
